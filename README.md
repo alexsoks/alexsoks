@@ -1,6 +1,7 @@
 <h1> Alexander Sokefun </h1>
 
-<img width="512" alt="Screenshot 2024-10-24 at 21 50 59" src="https://github.com/user-attachments/assets/360f80ba-37b2-403f-8b6d-f7b214b9c88e">
+<img width="646" alt="Screenshot 2024-10-24 at 22 24 16" src="https://github.com/user-attachments/assets/7e2edf66-cf9f-45d7-b72b-96747c2d5fe1">
+
 
 
 <h2> My Projects </h2>
