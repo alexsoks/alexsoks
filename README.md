@@ -5,6 +5,4 @@
 
 
 <h2> My Projects </h2>
-- <b> strings to morse code </b>
-- <b> strings to morse code 2 </b>
-- <b> strings to morse code 3 </b>
+
