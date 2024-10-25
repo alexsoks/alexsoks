@@ -4,7 +4,7 @@
 
 
 
-<h2> My Projects </h2>
+<h2> My Python Projects </h2>
 
 - [Strings to Morse Code](https://github.com/alexsoks/strings-to-morse-code)
 - [Tic-tac-toe](https://github.com/alexsoks/tic-tac-toe)
