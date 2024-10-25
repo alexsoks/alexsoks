@@ -6,5 +6,10 @@
 
 <h2> My Projects </h2>
 
-- [project 1] (https://www.youtube.com/)
+- [Strings to Morse Code](https://github.com/alexsoks/strings-to-morse-code)
+- [Tic-tac-toe](https://github.com/alexsoks/tic-tac-toe)
+- [Watermark Generator Application](https://github.com/alexsoks/watermark-generator)
+- [Typing Speed Test](https://github.com/alexsoks/typing-speed-test)
+- [Breakout Game](https://github.com/alexsoks/breakout-game)
+  
 
